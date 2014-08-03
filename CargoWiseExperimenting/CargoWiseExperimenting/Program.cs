@@ -11,7 +11,7 @@
 
         private static decimal PricerOnPriceChanged(decimal oldPrice, decimal newPrice)
         {
-            return oldPrice - newPrice;
+            return oldPrice - newPrice; 
         }
     }
 }

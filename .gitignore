@@ -1,1 +1,4 @@
 .suo,.exe,.pdb,.manifest,.cache
+/CargoWiseExperimenting/CargoWiseExperimenting/bin/Debug
+*.suo
+/CargoWiseExperimenting/CargoWiseExperimenting/obj/Debug
